@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Vazirmatn', sans-serif;
-  background: #f3f4f8;
+  background: #a7b6f0;
   color: #333;
 }
 
@@ -35,7 +35,7 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: #bce2b8;
 }
   .content {
     text-align: center;
